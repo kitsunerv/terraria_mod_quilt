@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "terrariamod:item/war_axe_of_the_night"
+  }
+}
