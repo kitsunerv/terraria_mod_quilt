@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "terrariamod:item/dyes/compound/Sky_Blue_and_Black_Dye"
+  }
+}

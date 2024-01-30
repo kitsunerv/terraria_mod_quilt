@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "terrariamod:item/dyes/compound/Blue_Flame_and_Silver_Dye"
+  }
+}
