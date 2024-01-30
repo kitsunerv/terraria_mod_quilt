@@ -1,6 +1,0 @@
-{
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "terrariamod:item/weapon/ranged/gun/Clockwork_Assault_Rifle"
-  }
-}
